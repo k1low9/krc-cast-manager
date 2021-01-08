@@ -1,3 +1,5 @@
 {
-    "name": "krc-cast-manager",
+    "name": "kurubusi/krc-cast-manager",
+    "type": "wordpress-plugin",
+    "require": {}
 }
